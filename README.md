@@ -49,3 +49,12 @@ My previous professional experience contributes directly to my development caree
 I am seeking an opportunity as a **Junior Java Developer** where I can apply my technical experience, strengthen my software development skills, and contribute to reliable and efficient solutions.
 
 -->
+## 🌐 Contact
+
+<a href="[linkedin.com](https://www.linkedin.com/in/higorkonarski/)">
+  <img
+    src="[img.shields.io](https://img.shields.io/badge/LinkedIn-Higor%20Konarski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)"
+    alt="LinkedIn de Higor Konarski"
+  />
+</a>
+
